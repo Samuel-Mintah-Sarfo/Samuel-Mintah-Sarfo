@@ -1,5 +1,5 @@
 # Samuel Mintah Sarfo
-[![GitHub Badge](https://img.shields.io/github/followers/legendary-sms?style=social)](https://github.com/legendary-sms?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/Samuel-Mintah-Sarfo?style=social)](https://github.com/Samuel-Mintah-Sarfo?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/legendary_SMS?style=social)](https://twitter.com/legendary_SMS)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/samuel-mintah-sarfo-3914b519a/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1a2IFXzO0qwjXphIqYmTuvEHy9YkjuSjEF6S1cgfIM7E/edit?usp=sharing)
